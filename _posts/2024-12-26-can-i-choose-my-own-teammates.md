@@ -51,4 +51,4 @@ tags: ["團隊建立","經濟學","產品經理"]
 ## 參考資料 
 
 - [Stable_marriage_problem](https://en.wikipedia.org/wiki/Stable_marriage_problem)
-- [The Stable Marriage Problem (Gale-Shapley Algorithm) – An Algorithm Recognized In the 2012 Nobel Prize And Used In The Residency Match](http://mindyourdecisions.com/blog/2015/03/03/the-stable-marriage-problem-gale-shapley-algorithm-an-algorithm-recognized-in-the-2012-nobel-prize-and-used-in-the-residency-match/#.VZQUEnr3_Gc)
+- [The Stable Marriage Problem (Gale-Shapley Algorithm) – An Algorithm Recognized In the 2012 Nobel Prize And Used In The Residency Match](https://mindyourdecisions.com/blog/2015/03/03/the-stable-marriage-problem-gale-shapley-algorithm-an-algorithm-recognized-in-the-2012-nobel-prize-and-used-in-the-residency-match/#.VZQUEnr3_Gc)
